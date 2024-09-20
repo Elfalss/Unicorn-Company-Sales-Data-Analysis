@@ -77,7 +77,10 @@ Implement promotional campaigns targeting both sales and profitability.
 
 ## Authors
 
-Elif Aydin Alsancak, 
-Mayfair A. Agyei,
-Nina Ojike Udeh, 
+Elif Aydin Alsancak 
+
+Mayfair A. Agyei
+
+Nina Ojike Udeh 
+
 Jason A. Martin
